@@ -1,1 +1,1 @@
-# Kaggke-Titanic
+# Kaggle-Titanic
